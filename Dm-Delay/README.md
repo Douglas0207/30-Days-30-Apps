@@ -6,7 +6,7 @@
 
 This project is part of my **30 Apps in 30 Days** challenge, aimed at mastering frontend development by building small but meaningful applications.
 
---
+---
 
 ##  Features
 
